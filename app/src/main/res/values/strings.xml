@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">aboutme</string>
+    <string name="aycin_moose">aycin moose</string>
+    <string name="star_on">star on</string>
+
+    <string name="bio">Hi, my name is aycin.\n\nI love fish.\n\nThe king that is alive and swims around in an aquarium or river, or a lake, and definitely the ocean.\nfun fact is that I have several aquariums and also a river.\n\nI like eating fish, too. Raw fish. Grilled fish. Smoked fish. Poached fish - not so much.\nAnd sometimes I even go fishing.\n\nOnce, when I was camping in Canade, and very hungry, I even caught a large salmon with my hands.\n\nI\'ll be happy to teach you how to make your own aquarium.\nYou should ask someone else about fishing, though,\n\n</string>
+    <string name="what_is_your_nickname">what is your nickname ?</string>
+    <string name="done">done</string>
+</resources>
